@@ -2,8 +2,9 @@
 
 1. BeautifulSoup
 
-    - crawling_selector.py
     - crawling.py
+    - crawling_selector.py
+    
 
 2. Selenium
 
